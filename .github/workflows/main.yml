@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: '3.10'
       
-  Unit Test:
+  Unit_Test:
     runs-on: ubuntu-latest
     steps:
       - name: Run Python script
