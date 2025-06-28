@@ -20,4 +20,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run Python script
-          run: python Scripts/tests/tests.py
+        run: python Scripts/tests/tests.py
